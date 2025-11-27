@@ -19,14 +19,15 @@ The above reasons are why I have decided to try to make an application which dia
 
 Here is a step by step plan for completion of the project (subject to change)
 
-[TODO] Step-1: Create a template for a doctor (with qualifications, specialization, experience etc)  
+[DONE] Step-1: Create a template for a doctor (with qualifications, specialization, experience etc)  
 [TODO] Step-2: Make a simple graph which incorporates human feedback to choose doctors according to the user's preference  
 [TODO] Step-3: Get the doctors to analyze the patient's symptom (Big step, divide into substeps)  
 [TODO] Step-3.1: Decide on method of generating information (possible ways include debate between the doctors, conversation with "expert" etc)  
 [TODO] Step-3.2: Add web search capabilities (Tavily) and integrate parallelization (Maybe include retrieval of information from existing documents from folder i.e. RAG)  
 [TODO] Step-3.3: Note down all the information obtained and make it into a summarization.  
 [TODO] Step-4: Combine information from all doctors and give the patient a comprehensive and simple to understand diagnosis from various perspectives.(Possibly offer the patient mulitple "treatment plans" with its positives and negatives and they can choose accordingly)  
-[TODO] Step-5: Integrate all the above steps into a working graph, which can take symptom from user, human interrupts for deciding doctors, and returning the final diagnosis.  
+[TODO] Step-5: Integrate all the above steps into a working graph, which can take symptom from user, human interrupts for deciding doctors, and returning the final diagnosis.    
+[TODO] Step-6: Make a .py file to get the same in langgraph and observe if similar results can be obtained.  
 
 ## Conclusion:
 
