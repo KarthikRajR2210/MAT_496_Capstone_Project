@@ -2,7 +2,7 @@
 # MAT496 Capstone Project
 
 ## Medical Symptom Analyzer  
-                Karthik Raj R (2210110344)
+By Karthik Raj R (2210110344)
 
 
 ## Overview
