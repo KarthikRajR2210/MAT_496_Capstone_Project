@@ -1,71 +1,27 @@
-Template for creating and submitting MAT496 capstone project.
 
-# Overview of MAT496
+# MAT496 Capstone Project
 
-In this course, we have primarily learned Langgraph. This is helpful tool to build apps which can process unstructured `text`, find information we are looking for, and present the format we choose. Some specific topics we have covered are:
+## Medical Symptom Analyzer  
+                Karthik Raj R (2210110344)
 
-- Prompting
-- Structured Output 
-- Semantic Search
-- Retreaval Augmented Generation (RAG)
-- Tool calling LLMs & MCP
-- Langgraph: State, Nodes, Graph
-
-We also learned that Langsmith is a nice tool for debugging Langgraph codes.
-
-------
-
-# Capstone Project objective
-
-The first purpose of the capstone project is to give a chance to revise all the major above listed topics. The second purpose of the capstone is to show your creativity. Think about all the problems which you can not have solved earlier, but are not possible to solve with the concepts learned in this course. For example, We can use LLM to analyse all kinds of news: sports news, financial news, political news. Another example, we can use LLMs to build a legal assistant. Pretty much anything which requires lots of reading, can be outsourced to LLMs. Let your imagination run free.
-
-
--------------------------
-
-# Project report Template
-
-## Title: [your title goes here]
 
 ## Overview
 
-[your overview goes here. My project does this that  etc]
+The project takes in medical symptoms from the patient. Then a certain number of doctors from various specializations (which can be chosen by the user based on their area of interest, experience and university) offer their insights for the situation. After this the doctors provide a treatment plan for the patient from their expertise. (For example, if the symptom is back pain, an orthopedist and a physical therapist can have differing treatment plans). Finally, all the information from all doctors is summarized into a clean, easy to understand diagnosis for the patient(user), who can choose their treatment plan accordingly.
 
-## Reason for picking up this project
+## Reason for picking up this project:
 
-Expain how this project is aligned with this course content.
+Getting perspective from multiple doctors is a very practical scenario. With the power of AI, getting data from all these perspectives is effective and simple. Furthermore, this use-case ensures a lot of the concepts learnt during the course can be applied. And most important of all, a model like this can be used by a layman in a day-to-day manner. 
 
-## Plan
+The above reasons are why I have decided to try to make an application which diagnoses a symptom from various professional perspectives.
 
-I plan to excecute these steps to complete my project.
+## Plan:
 
-- [TODO] Step 1 involves blah blah
-- [TODO] Step 2 involves blah blah
-- [TODO] Step 3 involves blah blah
-- ...
-- [TODO] Step n involves blah blah
 
 ## Conclusion:
 
-I had planned to achieve {this this}. I think I have/have-not achieved the conclusion satisfactorily. The reason for your satisfaction/unsatisfaction.
-
-----------
-
-# Added instructions:
-
-- This is a `solo assignment`. Each of you will work alone. You are free to talk, discuss with chatgpt, but you are responsible for what you submit. Some students may be called for viva. You should be able to each and every line of work submitted by you.
-
-- `commit` History maintenance.
-  - Fork this respository and build on top of that.
-  - For every step in your plan, there has to be a commit.
-  - Change [TODO] to [DONE] in the plan, before you commit after that step. 
-  - The commit history should show decent amount of work spread into minimum two dates. 
-  - **All the commits done in one day will be rejected**. Even if you are capable of doing the whole thing in one day, refine it in two days.  
- 
- - Deadline: Nov 30, Sunday 11:59 pm
 
 
-# Grading: total 25 marks
 
-- Coverage of most of topics in this class: 20
-- Creativity: 5
+
   
