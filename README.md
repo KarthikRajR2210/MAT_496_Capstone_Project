@@ -23,7 +23,7 @@ Here is a step by step plan for completion of the project (subject to change)
 [DONE] Step-2: Make a simple graph which incorporates human feedback to choose doctors according to the user's preference.    
 [DONE] Step-2.5: Testing out human feedback to modify the list of doctors obtained.   
 [TODO] Step-3: Get the doctors to analyze the patient's symptom (Big step, divide into substeps)  
-[TODO] Step-3.1: Decide on method of generating information (possible ways include debate between the doctors, conversation with "expert" etc)  
+[DONE] Step-3.1: Decide on method of generating information (decided on debate between experts)    
 [TODO] Step-3.2: Add web search capabilities (Tavily) and integrate parallelization (Maybe include retrieval of information from existing documents from folder i.e. RAG)  
 [TODO] Step-3.3: Note down all the information obtained and make it into a summarization.  
 [TODO] Step-4: Combine information from all doctors and give the patient a comprehensive and simple to understand diagnosis from various perspectives.(Possibly offer the patient mulitple "treatment plans" with its positives and negatives and they can choose accordingly)  
