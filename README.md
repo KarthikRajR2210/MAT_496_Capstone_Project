@@ -17,7 +17,7 @@ The above reasons are why I have decided to try to make an application which dia
 
 ## Plan:
 
-Here is a step by step plan for completion of the project (subject to change)
+Here is a step by step plan for completion of the project
 
 [DONE] Step-1: Create a template for a doctor (with qualifications, specialization, experience etc)  
 [DONE] Step-2: Make a simple graph which incorporates human feedback to choose doctors according to the user's preference.    
