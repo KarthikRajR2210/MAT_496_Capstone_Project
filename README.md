@@ -2,8 +2,9 @@
 # MAT496 Capstone Project
 
 ## Medical Symptom Analyzer  
-By Karthik Raj R (2210110344)
-
+By Karthik Raj R (2210110344)  
+  
+Video link for the project demo: https://drive.google.com/file/d/1qT7MJ6WkwDdzurSyH5mxPSiLaLuPIRPy/view?usp=drive_link  
 
 ## Overview
 
@@ -24,7 +25,7 @@ Here is a step by step plan for completion of the project
 [DONE] Step-2.5: Testing out human feedback to modify the list of doctors obtained.   
 [DONE] Step-3: Get the doctors to analyze the patient's symptom (Big step, divide into substeps)  
 [DONE] Step-3.1: Decide on method of generating information (decided on debate between experts)    
-[DONE] Step-3.2: Add web search capabilities (Tavily) and integrate parallelization (Maybe include retrieval of information from existing documents from folder i.e. RAG)      
+[DONE] Step-3.2: Add web search capabilities (Tavily) and integrate parallelization        
 [DONE] Step-4: Combine information from all doctors and give the patient a comprehensive and simple to understand diagnosis from various perspectives.(Possibly offer the patient mulitple "treatment plans" with its positives and negatives and they can choose accordingly)    
 [DONE] Step-5: Integrate all the above steps into a working graph, which can take symptom from user and returns the final diagnosis.    
 [DONE] Step-6: Make a .py file to get the same in langgraph and observe if similar results can be obtained.  
