@@ -4,7 +4,7 @@
 ## Medical Symptom Analyzer  
 By Karthik Raj R (2210110344)  
   
-Video link for the project demo: https://drive.google.com/file/d/1qT7MJ6WkwDdzurSyH5mxPSiLaLuPIRPy/view?usp=drive_link  
+Video link for the project summary and demo run: https://drive.google.com/file/d/1qT7MJ6WkwDdzurSyH5mxPSiLaLuPIRPy/view?usp=drive_link  
     
 Note: Video length is slightly over 5 minutes due the the execution time being more.
 (Both jupyter notebook and the langgraph website grah)    
