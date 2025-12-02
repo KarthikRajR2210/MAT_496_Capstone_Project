@@ -29,7 +29,14 @@ Here is a step by step plan for completion of the project (subject to change)
 [DONE] Step-5: Integrate all the above steps into a working graph, which can take symptom from user and returns the final diagnosis.    
 [DONE] Step-6: Make a .py file to get the same in langgraph and observe if similar results can be obtained.  
 
-## Conclusion:
+## Conclusion:  
+The project has been completed successfully. The initial goal to get multiple doctors to analyze a patient's symptom and give treatments from their specialization point of view was successful. Geting the three doctors to have a conversation amongst themselves was successful.   
+  
+However a few things which were not satisfactory and can be improved in the future. 
+-> Unable to integrate human feedback in creation of doctors in the final graph. (Integrating both graphs and maintaining the format got messy since I had made a separate debate graph in between.)  
+-> A few places still hardcoded with 3 doctors in assumption.    
+  
+To summarize the overall project was a success with being able to acheive the initial goal. A few improvements can be done down the line, but it is a pretty good graph. The most important part ofcourse is that designing this project has helped in refreshing all concepts learnt throughout the course and improve understanding of them since I had to write it from scratch with the course as reference.  
 
 
 
